@@ -38,6 +38,18 @@ export default {
       updateIsMobile
     };
   },
+  head() {
+    return {
+      title: 'Augsburg Mosaic | Discover the best spots in Augsburg',
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content: 'Explore the best spots in Augsburg with Augsburg Mosaic. Discover attractions, food, culture, nature, and more.',
+        }
+      ]
+    };
+  },
   beforeDestroy() {
     if (process.client) {
       window.removeEventListener('resize', this.updateIsMobile);
