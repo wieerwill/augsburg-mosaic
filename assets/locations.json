@@ -1,0 +1,195 @@
+[
+    {
+        "id": 1,
+        "title": "Zoo",
+        "description": "Home to over 1,600 animals of 300 species, Augsburg Zoo is a fun destination for families.",
+        "category": "attraction",
+        "coordinates": [
+            48.34879,
+            10.91588
+        ],
+        "address": "Brehmplatz 1, 86161 Augsburg",
+        "rating": 4,
+        "image": null,
+        "notes": "Great for a day out with kids."
+    },
+    {
+        "id": 2,
+        "title": "Town Hall",
+        "description": "A Renaissance architectural masterpiece with a beautiful interior including the Golden Hall.",
+        "category": "cultural",
+        "coordinates": [
+            48.3688702145732,
+            10.89869720434145
+        ],
+        "address": "Rathauspl. 1, 86150 Augsburg",
+        "rating": 5,
+        "image": null,
+        "notes": "The Golden Hall is a must-see."
+    },
+    {
+        "id": 3,
+        "title": "Fuggerei",
+        "description": "The world's oldest social housing complex still in use.",
+        "category": "cultural",
+        "coordinates": [
+            48.36987006188504,
+            10.903964160650018
+        ],
+        "address": "Jakoberstraße 26, 86152 Augsburg",
+        "rating": 4,
+        "image": null,
+        "notes": "A quiet, peaceful place with a rich history."
+    },
+    {
+        "id": 4,
+        "title": "Perlachturm",
+        "description": "A historic tower offering panoramic views of Augsburg. (currently closed)",
+        "category": "attraction",
+        "coordinates": [
+            48.36920628764096,
+            10.898450278952886
+        ],
+        "address": "Rathauspl. 1, 86150 Augsburg",
+        "rating": 4,
+        "image": null,
+        "notes": "Wear comfortable shoes for the climb."
+    },
+    {
+        "id": 5,
+        "title": "Puppenkiste",
+        "description": "A famous marionette theater with a museum showcasing historical puppets.",
+        "category": "cultural",
+        "coordinates": [
+            48.3603972116233,
+            10.903206140281654
+        ],
+        "address": "Spitalgasse 15, 86150 Augsburg",
+        "rating": 5,
+        "image": null,
+        "notes": "A magical experience for all ages."
+    },
+    {
+        "id": 6,
+        "title": "Botanical Garden",
+        "description": "A serene botanical garden with themed areas and a butterfly house.",
+        "category": "nature",
+        "coordinates": [
+            48.34957863531708,
+            10.915033207995533
+        ],
+        "address": "Dr.-Ziegenspeck-Weg 10, 86161 Augsburg",
+        "rating": 4,
+        "image": null,
+        "notes": "The butterfly house is a highlight."
+    },
+    {
+        "id": 7,
+        "title": "Maximilianmuseum",
+        "description": "A museum housing a variety of historical artifacts and artworks.",
+        "category": "cultural",
+        "coordinates": [
+            48.36794304122964,
+            10.896419926758991
+        ],
+        "address": "Fuggerplatz 1, 86150 Augsburg",
+        "rating": 3,
+        "image": null,
+        "notes": "Rich in local history."
+    },
+    {
+        "id": 8,
+        "title": "Eiskanal",
+        "description": "An artificial white-water river offering canoeing and kayaking opportunities.",
+        "category": "other",
+        "coordinates": [
+            48.34801468191772,
+            10.936438664823985
+        ],
+        "address": "Eiskanalstraße 30, 86161 Augsburg",
+        "rating": 4,
+        "image": null,
+        "notes": "A thrilling experience for adventure seekers."
+    },
+    {
+        "id": 9,
+        "title": "Schaezlerpalais",
+        "description": "A baroque palace with stunning interiors and an art gallery.",
+        "category": "cultural",
+        "coordinates": [
+            48.36515672496401,
+            10.899364991520201
+        ],
+        "address": "Maximilianstraße 46, 86150 Augsburg",
+        "rating": 4,
+        "image": null,
+        "notes": "The Rococo ballroom is a masterpiece."
+    },
+
+    {
+        "id": 10,
+        "title": "Masericó",
+        "category": "food",
+        "coordinates": [48.37465547077278, 10.895556446113813],
+        "address": "Frauentorstraße 25, 86152 Augsburg",
+        "rating": "",
+        "description": "Finest Pizza selection, always freshly baken and great combinations possible",
+        "image": "",
+        "notes": ""
+    },
+    {
+        "id": 11,
+        "title": "Trattoria Pizzeria Crudo",
+        "category": "food",
+        "coordinates": [48.379074019160875, 10.891983555594491],
+        "address": "Am Pfannenstiel 20, 86153 Augsburg",
+        "rating": "",
+        "description": "Italian, Pizza, Seafood, Mediterranean",
+        "image": "",
+        "notes": ""
+    },
+    {
+        "id": 13,
+        "title": "Shushu Falafel",
+        "category": "food",
+        "coordinates": [48.37083274095064, 10.897619465655083],
+        "address": "Karlstraße 2, 86150 Augsburg",
+        "rating": "",
+        "description": "Syrian, Lebanese, Middle Eastern",
+        "image": "",
+        "notes": ""
+    },
+    {
+        "id": 14,
+        "title": "Riegele WirtsHaus",
+        "category": "food",
+        "coordinates": [48.36772460100637, 10.88493485006803],
+        "address": "Frölichstraße 26, 86150 Augsburg",
+        "rating": "",
+        "description": "traditional and modern bavrian, home bew beer and always up to new ideas",
+        "image": "",
+        "notes": ""
+    },
+    {
+        "id": 15,
+        "title": "Got Asia",
+        "category": "food",
+        "coordinates": [48.37044353815951, 10.89805742563597],
+        "address": "Leonhardsberg 2, 86150 Augsburg",
+        "rating": "",
+        "description": "Asian Cuisine, Sushi and good udon noodles",
+        "image": "",
+        "notes": ""
+    },
+    {
+        "id": 16,
+        "title": "Taverna Ikaros",
+        "category": "food",
+        "coordinates": [48.36173471336735, 10.871633911417918],
+        "address": "Sigmundstraße 3, 86157 Augsburg",
+        "rating": "",
+        "description": "best greek i found so far in Augsburg, friendly Service and i can suggest the Zeus plate ;)",
+        "image": "",
+        "notes": ""
+    }
+]
